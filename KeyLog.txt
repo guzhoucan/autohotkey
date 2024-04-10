@@ -1,0 +1,28 @@
+--- Logging Started ---
+keyname: 1 - vk: 49 sc: 2 - 20240409231320
+keyname: 2 - vk: 50 sc: 3 - 20240409231321
+keyname: F1 - vk: 112 sc: 59 - 20240409231322
+keyname: Volume_Up - vk: 175 sc: 304 - 20240409231326
+keyname: Volume_Down - vk: 174 sc: 302 - 20240409231328
+keyname: Volume_Mute - vk: 173 sc: 288 - 20240409231330
+keyname: Media_Prev - vk: 177 sc: 272 - 20240409231334
+keyname: Media_Next - vk: 176 sc: 281 - 20240409231335
+keyname: Media_Play_Pause - vk: 179 sc: 290 - 20240409231336
+keyname: LControl - vk: 162 sc: 29 - 20240409231342
+keyname: LAlt - vk: 164 sc: 56 - 20240409231342
+keyname: k - vk: 75 sc: 37 - 20240409231342
+--- Logging Stopped ---
+--- Logging Started ---
+keyname: 1 - vk: 49 sc: 2 - 20240409231423
+keyname: 2 - vk: 50 sc: 3 - 20240409231424
+keyname: F1 - vk: 112 sc: 59 - 20240409231426
+keyname: Volume_Up - vk: 175 sc: 304 - 20240409231432
+keyname: Volume_Down - vk: 174 sc: 302 - 20240409231433
+keyname: Volume_Mute - vk: 173 sc: 288 - 20240409231438
+keyname: Media_Prev - vk: 177 sc: 272 - 20240409231442
+keyname: Media_Next - vk: 176 sc: 281 - 20240409231444
+keyname: Media_Play_Pause - vk: 179 sc: 290 - 20240409231445
+keyname: LControl - vk: 162 sc: 29 - 20240409231453
+keyname: LAlt - vk: 164 sc: 56 - 20240409231453
+keyname: k - vk: 75 sc: 37 - 20240409231453
+--- Logging Stopped ---
